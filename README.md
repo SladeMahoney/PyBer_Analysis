@@ -11,8 +11,7 @@ While the Urban rides contribute more to the total revenue, the Rural rides have
 
 The line graph demonstrates spikes across the board at the end of February. That could be a good indication of additional areas of study. In elimination business-related factors, it could reveal that to be the most lucrative time in rideshare.
 
-![alt text](http://url/to/img.png)
-
+![Line Chart](https://github.com/SladeMahoney/PyBer_Analysis/blob/master/analysis/Challenge_fare_summary.png)
 
 ## Challenges
 In manipulating and pulling data from multiple DataFrames, it took debugging to recognize that some operations are better performed after the data is cleaned and not before.
