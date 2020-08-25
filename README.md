@@ -1,10 +1,10 @@
 # PyBer_Analysis
 
 ## Purpose
-The original data work done throughout the start of the project gathered valuable data about the differences between Urban, Suburban, and Rural rides. By taking a look at fare totals over time, we're better able to analyze the impact to the business that these three units represent. From there, we're also better able to know where to focus future investments in business growth and driver support.
+This project gathered valuable data about the differences between Urban, Suburban, and Rural rides. By taking a look at fare totals over time, we're better able to analyze the impact to the business that these three units represent. From there, we're also better able to know where to focus future investments in business growth and driver support.
 
 ### Technical Analysis
-By performing sum calculations on the data grouped by both "type" and "date", we were able to chart the results in a way that visually demonstrates the impact of each business unit on the organization as a whole.
+By performing calculations to find the sum of the data grouped by both "type" and "date", we were able to chart the results in a way that visually demonstrates the impact of each business unit on the organization as a whole.
 
 ### Results and Summary
 While the Urban rides contribute more to the total revenue, the Rural rides have a higher average fare. This data suggests that the Rural section may be a better opportunity for future investment.
